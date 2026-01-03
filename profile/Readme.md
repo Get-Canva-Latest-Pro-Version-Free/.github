@@ -6,7 +6,7 @@
 <h1 align="center">⚡ Canva Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://www.nvokepartners.com/Canv%D0%B0LatestWindowsLif%D0%B5tim%D0%B5.zip" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Canva%20Unlock%20Tool-Enable%20All%20Features-31A8FF?style=for-the-badge&logo=adobe&logoColor=white" 
          alt="Download Canva Unlock Tool" style="width: 540px; height: 37px;">
   </a>
@@ -83,6 +83,6 @@ Found a problem or want to help? Open an issue or send a pull request.
 ## ⭐ Unlock  – Professional Photo and Graphic Editing
 
 Get full access to Canva.  
-[Download the Unlock Tool](https://www.nvokepartners.com/Canv%D0%B0LatestWindowsLif%D0%B5tim%D0%B5.zip) and unleash your creativity.
+[Download the Unlock Tool]() and unleash your creativity.
 
 ---
